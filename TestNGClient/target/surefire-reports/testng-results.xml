@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="otpp.workflow.TestNGClient.AppTest" duration-ms="691" started-at="2014-07-23T10:30:16Z" finished-at="2014-07-23T10:30:16Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="691" started-at="2014-07-23T10:30:16Z" finished-at="2014-07-23T10:30:16Z">
+      <class name="otpp.workflow.TestNGClient.AppTest">
+        <test-method status="PASS" signature="generalTestCase_case1()" name="generalTestCase_case1" duration-ms="685" started-at="2014-07-23T10:30:16Z" finished-at="2014-07-23T10:30:16Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

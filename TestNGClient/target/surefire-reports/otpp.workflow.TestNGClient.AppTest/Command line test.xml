@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="PC5402" name="otpp.workflow.TestNGClient.AppTest" tests="1" failures="0" timestamp="23 Jul 2014 14:30:16 GMT" time="0.691" errors="0">
+  <testcase name="generalTestCase_case1" time="0.685" classname="otpp.workflow.TestNGClient.AppTest"/>
+</testsuite>
